@@ -1,0 +1,9 @@
+[package]
+name = "lc3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ctrlc = "3.4.5"
+libc = "0.2.164"
+termios = "0.3.3"
